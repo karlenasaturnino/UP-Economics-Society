@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: lena
+title: Lena Archives
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital exhibit of my life!
+tagline: A digital exhibit of my life!
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "a digital exhibit of lena's life"
+description: "insert description here"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
