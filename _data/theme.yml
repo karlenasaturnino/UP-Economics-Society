@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-pink-background&psig=AOvVaw20wWQKtYdY-FTASGSiXQQu&ust=1677562221273000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjn6rP8tP0CFQAAAAAdAAAAABAE
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
