@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: THE BEATLES ARCHIVES
+title: UP Economics Society
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital exhibit of everything The Beatles!
+tagline: Get to know the UP Economics Society, its vision and mission, and initiatives.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a collection slay"
+description: "The UP Economics Society (UP Ecosoc) is one of the leading non-stock, non-profit, socio-civic organizations in UP Diliman, based in the UP School of Economics. With over 200 members, 2200 alumni, and after 63 years of experience, UP Ecosoc remains at the forefront of promoting civic responsibility through various socio-civic initiatives. The organization is anchored on the provision of providing quality development towards all of its stakeholders."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
