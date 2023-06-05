@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://beatleslane.com/wallpapers/wallpaper-beatleslane004-1024.jpg
+featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.upecosoc.com%2Ftradition.html&psig=AOvVaw3qzI0bovu6a5HlB8EifH0c&ust=1686031737870000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND8_O-7q_8CFQAAAAAdAAAAABAD
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
